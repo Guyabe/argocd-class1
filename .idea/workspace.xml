@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46261bdb-e394-4864-8a25-e95b35ff1b59" name="Changes" comment="" />
+    <list default="true" id="46261bdb-e394-4864-8a25-e95b35ff1b59" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/infra/modules/ec2/main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/modules/ec2/variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/modules/sg/locals.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/modules/sg/main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/modules/sg/output.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/modules/sg/variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/modules/vpc/main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/modules/vpc/variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/infra/variables.tf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
